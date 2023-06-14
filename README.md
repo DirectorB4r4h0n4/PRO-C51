@@ -1,1 +1,1 @@
-#MIB ALFA
+MIB ALFA
